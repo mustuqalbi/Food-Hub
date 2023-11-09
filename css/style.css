@@ -1,0 +1,175 @@
+@font-face {
+	src: url('../fonts/GrandHotel-Regular.otf');
+	font-family: 'grand';
+}
+
+body {
+	color: #fff;
+}
+
+.header_bg {
+	background-image: url('../images/header.png');
+	background-size: 100%;
+}
+
+.header_bg_right {
+	background-color: #303030;
+}
+
+.header_right_bg {
+	background-image: url('../images/title_background.png');
+	height: 600px;
+	background-size: 80%;
+
+}
+
+.menu {
+	height: 50px;
+}
+
+.test {
+	height: 600px;
+}
+
+.main {
+	color: #F6C443;
+	font-family: 'grand';
+}
+
+
+
+
+
+.heading {
+	font-family: 'grand';
+	color: #090909;
+}
+
+.para {
+	color: #1b1a1a;
+	font-size: 25px;
+}
+
+
+.bg_img {
+	background-image: url('..//images/orientalBackground.png');
+	width: 100%;
+	height: 500px;
+	background-repeat: no-repeat;
+}
+
+
+.statistics_bg {
+	background-color: #303030;
+	background-image: url('../images/title_background.png');
+	height: 500px;
+	width: 100%;
+	padding: 0 !important;
+}
+
+.num {
+	font-size: 1rem;
+	color: #F6C443;
+	font-weight: 900;
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 5px;
+}
+
+.text {
+	font-size: 1rem;
+	font-weight: 500;
+	text-align: center;
+}
+
+.items {
+	border: 3px solid #fff;
+	border-radius: 50%;
+	height: 120px;
+	width: 120px;
+	margin-left: 30%;
+}
+
+.grill_bg {
+	background-image: url('..//images/orientalBackground2\(1\).png');
+	width: 100%;
+	height: 600px;
+	background-repeat: no-repeat;
+	padding: 0;
+	margin: 0px;
+}
+
+.sub_bg {
+	background-color: #f4f4f4;
+}
+
+.image_bg {
+	background-image: url('../images/title_background.png');
+	height: 400px;
+	background-size: 80%;
+	margin: 2rem;
+}
+
+.form_control {
+	width: 30%;
+	border-radius: 5px;
+	padding: 0.375rem 0.75rem
+}
+
+.bg_color
+{
+	background-color: #303030;
+	height: 350px;
+}
+
+.space{
+	background-color: #303030;
+	height: 100px;
+}
+
+
+
+.social_media ul
+{
+    display: flex;
+	padding: 0;
+}
+
+.social_media ul li
+{
+    list-style: none;
+	margin: 0px 8px 5px 0px;
+}
+
+.social_media ul li .fa
+{
+    font-size: 20px;
+    line-height: 40px;
+    color: #000;
+}
+
+.social_media ul li a
+{
+    position: relative;
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #fff;
+    text-align: center;
+    box-shadow: 0 5px 4px rgba(0, 0, 0, 0.5);
+}
+
+.footer{
+	background-color: #f4f4f4;
+	color: #303030;
+	text-align: center;
+}
+
+.footer .name{
+	font-size: 20px ;
+}
+
+.name span{
+	font-family: 'grand';
+}
